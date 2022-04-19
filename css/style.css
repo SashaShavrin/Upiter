@@ -742,7 +742,7 @@ body {
 
 .item__img-four {
   width: 87% !important;
-  margin-left: 20px !important;
+  margin-left: 10px !important;
   position: absolute;
   bottom: 0;
 }
@@ -837,7 +837,7 @@ body {
 }
 
 .owl-dot.active {
-  height: 10px !important;
+  height: 20px !important;
   margin: 0 !important;
   padding: 25px 0 0 0 !important;
 }
