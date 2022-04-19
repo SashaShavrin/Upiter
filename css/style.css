@@ -1331,7 +1331,10 @@ body {
 .footer {
   margin-top: 218px;
 }
-
+@media (max-width: 1200px) {
+  .footer {
+    margin-top: 350px;
+  }
 @media (max-width: 576px) {
   .footer {
     margin-top: 206px;
