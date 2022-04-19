@@ -1,0 +1,9 @@
+<svg id="Компонент_21_1" data-name="Компонент 21 – 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Light_Button_Secondary_Icon" data-name="Light/Button/Secondary/Icon">
+    <g id="Rectangle" fill="none" stroke="rgba(255,255,255,0.29)" stroke-miterlimit="10" stroke-width="1">
+      <rect width="48" height="48" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" fill="none"/>
+    </g>
+  </g>
+  <path id="Path" d="M14,4.5a.5.5,0,0,0-.5-.5H1.708L4.855.855A.5.5,0,1,0,4.147.147l-4,4a.5.5,0,0,0,0,.708l4,4a.5.5,0,0,0,.708-.708L1.708,5H13.5A.5.5,0,0,0,14,4.5Z" transform="translate(16.999 19.499)" fill="#fff"/>
+</svg>
