@@ -925,7 +925,7 @@ body {
   @media (max-width: 576px) {
   .gtco-testimonials .card {
     margin: 0;
-    width: 99%;
+    width: auto;
   }
 }
 
