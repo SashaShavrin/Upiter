@@ -922,6 +922,11 @@ body {
     margin: 0 0 0 -3px;
     width: auto;
   }
+  @media (max-width: 576px) {
+  .gtco-testimonials .card {
+    margin: 0;
+    width: auto;
+  }
 }
 
 .gtco-testimonials .item-two {
