@@ -843,7 +843,7 @@ border:0
 }
 
 .owl-dot.active {
-  height: 10px !important;
+  height: 20px !important;
   margin: 0 !important;
   opacity: 1 !important;
   padding: 25px 0 0 0 !important;
